@@ -9,7 +9,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class Hangman {
+public class HangMan {
     public static void main(String[] args) throws IOException
     {
         int fail = 0, triesLeft, level;
